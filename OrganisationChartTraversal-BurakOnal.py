@@ -1,6 +1,8 @@
 __author__ = 'burakonal'
 import re
 import sys
+import time
+
 
 def read_file(file):
     f = open(file, 'r')
